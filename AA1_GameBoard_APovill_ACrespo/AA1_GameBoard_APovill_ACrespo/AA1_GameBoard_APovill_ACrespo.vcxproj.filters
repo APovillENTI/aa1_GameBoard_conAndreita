@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\usuario\Desktop\cOSASS\Header.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
     <ClCompile Include="C:\Users\usuario\Desktop\cOSASS\MapCreator.cpp">
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\usuario\Desktop\cOSASS\Player.cpp">
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="C:\Users\usuario\Desktop\cOSASS\Header.h">
-      <Filter>Archivos de encabezado</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
