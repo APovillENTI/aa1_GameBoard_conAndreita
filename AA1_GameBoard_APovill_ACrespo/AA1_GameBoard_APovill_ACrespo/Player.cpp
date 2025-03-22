@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <iostream>
 
-
+//NO
 //Una función movePlayer que mueve al jugador a la siguiente casilla de dónde se encuentra dependiendo
 //del tipo de PlayerMovement que se le pasa cómo parámetro.Reflexione(antes de programar) si la función también
 //tiene que recibir cómo parámetro la posición dónde está el jugador o no.
